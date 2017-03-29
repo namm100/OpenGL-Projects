@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\AndroidOpenGlES\HelloOpenGLES20\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81951dca2fe86c950a4f522b3ce73d4919e19f9f">
+        <dex dex="G:\AndroidOpenGlES\HelloOpenGLES20\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fa1a3dfacdf8601ad95bdcbb4e6070aab500b46c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidOpenGlES\HelloOpenGLES20\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d51ca67adb3b1a6512273c29eec4e0ecb2c655f4">
+        <dex dex="G:\AndroidOpenGlES\HelloOpenGLES20\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_012a290a6948f0b465c9bd8f9b16747ceb6db574\classes.dex" />
+    </item>
+
+</items>
